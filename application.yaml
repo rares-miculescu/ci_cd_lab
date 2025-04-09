@@ -6,7 +6,7 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: <todo-add-your-repository-URL-here>
+    repoURL: https://github.com/rares-miculescu/ci_cd_lab
     targetRevision: HEAD
     path: manifests
   destination:
