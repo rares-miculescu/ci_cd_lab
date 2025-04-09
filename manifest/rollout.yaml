@@ -22,7 +22,7 @@ spec:
     spec:
       containers:
         - name: webserver
-          image: ghcr.io/<todo-add-your-github-username>/go-simple-webserver:latest
+          image: ghcr.io/rares-miculescu/go-simple-webserver:latest
           ports:
             - containerPort: 8080
           imagePullPolicy: Always
